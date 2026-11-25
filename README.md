@@ -1,11 +1,11 @@
 
 # Smart India Hackathon Workshop
 
-**Date:** 25/11/2026
+# Date: 25/11/2026
 
-**Reference Number:** 26018650
+## Reference Number: 26018650
 
-**Name:** Bhavanesh
+## Name: Bhavanesh
 
 ## Problem Title
 
@@ -21,22 +21,19 @@ Agriculture, FoodTech & Rural Development
 
 ## Problem Description
 
-Farmers often receive low prices for their products because of middlemen. Consumers also have to pay higher prices.
+Expected Solution: Create a digital marketplace that:
 
-Our project aims to solve this problem by connecting farmers directly with buyers through a simple website.
-
-The website will:
-
-- Connect farmers directly with consumers and bulk buyers.
-- Allow farmers to add products, prices, and quantities.
-- Help buyers find products and contact farmers.
-- Provide basic transportation support.
+• Connects farmers/FPOs directly with consumers and bulk buyers.
+• Provides logistics support.
+• Uses AI for demand forecasting and route optimization.
 
 ### Benefits
 
-- Better prices for farmers.
-- Lower prices for consumers.
-- Reduced dependence on middlemen.
+
+• Better prices for farmers.
+• Lower prices for consumers.
+• Reduced supply chain inefficiencies.
+
 
 ## Proposed Solution
 
